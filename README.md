@@ -1,6 +1,6 @@
 
 ASANO
 
-push1
+push2
 
 私のよ！
